@@ -2,7 +2,7 @@
 # Challenge ONE | Java | Back-end | Hotel Alura
 
 <p align="center" >
-     <img width="600" heigth="600" src="https://github.com/DanielSicaja08/Challenge-HotelAlura/blob/main/Hotel-Alura/src/imagenes/Ha-100px.png">
+     <img width="300" heigth="300" src="https://github.com/DanielSicaja08/Challenge-HotelAlura/blob/main/Hotel-Alura/src/imagenes/Ha-100px.png">
 </p>
 
 
